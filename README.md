@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shweta+Singh;Aspiring+Software+Developer;Flutter+%7C+React+Native+%7C+Web+Dev;DSA+%7C+Firebase+%7C alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shweta+Singh;Aspiring+Software+Developer;Flutter+%7C+React+Native+%7C+Web+Dev;DSA+%7C+Firebase+%7C+UI%2FUX+Design" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shweta Singh</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💻 App & Web Development</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=singhshweta1517&label=Profile%20views&color=0e75b6&style=flat" alt="singhshweta1517" /> </p>
 
 ---
 
@@ -30,10 +28,10 @@ A tool to generate secure, customizable passwords using JavaScript. Features cop
 A smart Android app using fingerprint authentication to mark and store attendance. Includes secure local data storage.
 
 ### 📰 MyNewsRoom (Native + News API)
-A responsive app that fetches and displays live news across categories using the News API. Includes search functionality.
+A responsive web app that fetches and displays live news across categories using the News API. Includes dark mode and search functionality.
 
 ### 🧠 AI Travel Planner App (React Native) – Ongoing
-An AI-powered travel app that suggests itineraries based on user preferences. Integrates UI and interactive maps (under development).
+An AI-powered travel app that suggests itineraries based on user preferences. Integrates chat-style UI and interactive maps (under development).
 
 ---
 
@@ -58,7 +56,7 @@ An AI-powered travel app that suggests itineraries based on user preferences. In
 ## 📚 Currently Learning
 
 - 🔁 Advanced React Native (animations, navigation)
-- 🌐 Backend development
+- 🌐 Backend development 
 - 🔢 Competitive Programming with Java/C++
 
 ---
