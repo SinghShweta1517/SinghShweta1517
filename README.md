@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shweta+Singh;Aspiring+Software+Developer;Flutter+%7C+React+Native+%7C+Web+Dev;DSA+%7C+Firebase+%7C+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shweta+Singh;Aspiring+Software+Developer;Flutter+%7C+React+Native+%7C+Web+Dev;DSA+%7C+Firebase+%7C alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shweta Singh</h1>
@@ -13,7 +13,7 @@
 
 I'm a fourth-year BTech CSE student at KIIT University, passionate about building apps that solve real-world problems. With a creative eye from my love for painting, I bring thoughtful design into my development work.
 
-I specialize in cross-platform mobile development using React Native. Currently, I'm diving deeper into **DSA**, **Firebase**.
+I specialize in cross-platform mobile development using **Flutter** and **React Native**. Currently, I'm diving deeper into **DSA**, **Firebase**.
 
 - 🌱 I’m currently learning **React Native, JavaScript, DSA**
 - 📫 Reach me at: **shweta8462603@gmail.com**
@@ -23,14 +23,17 @@ I specialize in cross-platform mobile development using React Native. Currently,
 
 ## 💼 Projects
 
-### 🍽️ Food Recipe App [React Native + TheMealDB API]
-A mobile app that allows users to search and filter food recipes by category. Features splash screen, API integration, and smooth UI design.
+### 🔐 Password Generator App
+A tool to generate secure, customizable passwords using JavaScript. Features copy-to-clipboard and password strength indicator.
 
-### 🌦️ Weather Dashboard [React.js + OpenWeatherMap API]
-Displays real-time weather data for any city with a clean UI and responsive design.
+### 🧬 Biometric Attendance System (Android)
+A smart Android app using fingerprint authentication to mark and store attendance. Includes secure local data storage.
 
-### 🎬 Movie App UI Clone [React Native]
-A visually rich clone of a movie browsing app interface, inspired by Netflix and IMDb, showcasing design and layout skills.
+### 📰 MyNewsRoom (Native + News API)
+A responsive app that fetches and displays live news across categories using the News API. Includes search functionality.
+
+### 🧠 AI Travel Planner App (React Native) – Ongoing
+An AI-powered travel app that suggests itineraries based on user preferences. Integrates UI and interactive maps (under development).
 
 ---
 
@@ -55,7 +58,7 @@ A visually rich clone of a movie browsing app interface, inspired by Netflix and
 ## 📚 Currently Learning
 
 - 🔁 Advanced React Native (animations, navigation)
-- 🌐 Backend development 
+- 🌐 Backend development
 - 🔢 Competitive Programming with Java/C++
 
 ---
